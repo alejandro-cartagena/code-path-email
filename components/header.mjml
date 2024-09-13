@@ -1,0 +1,18 @@
+<mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section padding="0" background-color="#FFFFFF">
+      <mj-column width="50%">
+        <mj-image src="https://i.postimg.cc/vBrdT57L/header.png" alt="code path logo" />
+        <mj-divider border-width="1px" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text>
+          <h1 class="header-text">News &
+            Events</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End Header -->
+    </mj-raw>

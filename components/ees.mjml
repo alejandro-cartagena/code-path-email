@@ -1,0 +1,29 @@
+<mj-raw>
+  <!-- Start EES -->
+</mj-raw>
+
+<mj-section padding="0" background-color="#FFFFFF">
+  <mj-column width="100%">
+    <mj-image href="https://www.codepath.org/students/emerging-engineers-summit?_hsenc=p2ANqtz--oHnEE5K27G_wTD1pITXSIjknSXrzijDl2pD17VT6r4lyviRZ1kDBTL7Jz5DNttmCe_3_fU48JFUfs5HyMvI2_iTzK_ZHv6Z3r4I2jT3_IiXZb3_o&_hsmi=324072330&utm_campaign=Career%20Center%20Summer%202024&utm_content=324072330&utm_medium=email&utm_source=hs_email" padding-top="10px" src="https://i.postimg.cc/D073XmBV/ees.png" alt="" />
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text padding-top="0" padding-bottom="0">
+      <p class="p-text" style="text-align: center">Just three weeks to go until <span style="font-weight: bold">#EES2024!</span></p>
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text padding-top="0" padding-bottom="0">
+      <p class="p-text" style="text-align: center;">Find more details, apply for tickets, and access a full FAQ page on the <a href="https://www.codepath.org/students/emerging-engineers-summit?_hsenc=p2ANqtz--oHnEE5K27G_wTD1pITXSIjknSXrzijDl2pD17VT6r4lyviRZ1kDBTL7Jz5DNttmCe_3_fU48JFUfs5HyMvI2_iTzK_ZHv6Z3r4I2jT3_IiXZb3_o&_hsmi=324072330&utm_campaign=Career%20Center%20Summer%202024&utm_content=324072330&utm_medium=email&utm_source=hs_email" class="link">EES Homepage</a>. We expect to reach capacity and close registration very soon!</p>
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text align="center">
+      <a href="https://www.codepath.org/students/emerging-engineers-summit?_hsenc=p2ANqtz--oHnEE5K27G_wTD1pITXSIjknSXrzijDl2pD17VT6r4lyviRZ1kDBTL7Jz5DNttmCe_3_fU48JFUfs5HyMvI2_iTzK_ZHv6Z3r4I2jT3_IiXZb3_o&_hsmi=324072330&utm_campaign=Career%20Center%20Summer%202024&utm_content=324072330&utm_medium=email&utm_source=hs_email" class="btn">Apply for your EES ticket</a>
+    </mj-text>
+    <mj-divider border-width="1px" width="50%" align="left" />
+  </mj-column>
+</mj-section>
+
+<mj-raw>
+  <!-- End EES -->
+</mj-raw>

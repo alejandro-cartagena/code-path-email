@@ -1,0 +1,82 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Courier Prime" href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" />
+    <mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+      .header-text {
+        color: #00C385;
+        font-family: 'Courier New', Courier, monospace;
+        margin-bottom: 10px;
+        line-height: 100%;
+        font-size: 52px;
+        font-weight: normal;
+      }
+
+      .link {
+        text-decoration: none;
+        color: #4F5EFF;
+        font-weight: bold;
+      }
+
+      .p-text {
+        margin: 10px 0;
+        color: #23496D;
+        font-size: 15px;
+        line-height: 22px;
+      }
+
+      .p-span {
+        font-weight: bold;
+      }
+
+      .btn {
+        background-color: #4F5EFF;
+        color: #FFFFFF;
+        text-decoration: none;
+        font-size: 16px;
+        text-transform: capitalize;
+        padding: 16px 20px;
+        display: inline-block;
+        border-radius: 4px;
+      }
+
+      .announcement-header {
+        color: #1B1C57;
+        margin: 0;
+        font-family: 'Courier New', Courier, monospace;
+        line-height: 109%;
+        font-size: 22px;
+        font-weight: normal;
+      }
+
+      .career-heading {
+        color: #1B1C57;
+        margin: 0;
+        font-family: 'Courier New', Courier, monospace;
+        line-height: 100%;
+        font-size: 38px;
+        font-weight: normal;
+      }
+
+      .career-small-heading {
+        color: #1B1C57;
+        margin: 0;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        line-height: 150%;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F5F5F5">
+
+    <mj-include path="./components/header.mjml" />
+    <mj-include path="./components/announcement-header.mjml" />
+    <mj-include path="./components/career-labs.mjml" />
+    <mj-include path="./components/ees.mjml" />
+    <mj-include path="./components/open-opportunities.mjml" />
+    <mj-include path="./components/career-connect.mjml" />
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>

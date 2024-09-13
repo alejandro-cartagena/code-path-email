@@ -1,0 +1,31 @@
+<mj-raw>
+        <!-- Start Announcement Header -->
+    </mj-raw>
+
+    <mj-section background-color="#FFFFFF">
+        <mj-column padding-top="0" width="100%">
+            <mj-text>
+                <h2 class="announcement-header">Hi Alejandro, are you feeling ready for Fall?</h2>
+            </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="0">
+                <p class="p-text">The Career Center Team definitely is! Career Labs have returned for the new semester, <a class="link" href="#">kicking off tomorrow</a> with everything you need to know about Resumes and LinkedIn.</p>
+            </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="0">
+                <p class="p-text">You're also invited to join an info session for <span class="p-span">NBC Universal internships next summer,</span> plus the chance to <span class="p-span">🌟register for an exclusive CodePath application link for the open roles.🌟</span></p>
+            </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="0">
+                <p class="p-text">As always, read on for all the details!</p>
+            </mj-text>
+            <mj-divider border-width="1px" width="50%" align="left"/>
+        </mj-column>
+    </mj-section>
+
+    <mj-raw>
+        <!-- End Announcement Header -->
+    </mj-raw>

@@ -1,0 +1,57 @@
+<mj-raw>
+      <!-- Start Career Labs -->
+    </mj-raw>
+
+    <mj-section padding="0" background-color="#FFFFFF">
+      <mj-column width="100%">
+        <mj-text>
+          <h1 class="career-heading">Career <span style="color: #4F5EFF;">Labs</span></h1>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <p class="p-text">Weekly, interactive workshops on key career topics hosted by our Career Coaches. <br>Now on <span style="font-weight: bold">**Wednesdays**</span>, 4:00pm ET/1:00pm PT</p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="35%">
+        <mj-image src="https://i.postimg.cc/prBxGKpX/sept11.png" alt="" />
+      </mj-column>
+      <mj-column width="65%">
+        <mj-text padding-bottom="0">
+          <h3 class="career-small-heading">Recruiting Season Ready: Resumes and LinkedIn</h3>
+        </mj-text>
+        <mj-text padding-top="0">
+          <p class="p-text">Your resume and LinkedIn profile are crucial first impressions in today’s job market. This workshop will help you craft a standout resume and an effective LinkedIn profile. Learn to highlight accomplishments, use impactful language, and tailor your resume for specific roles. We'll also cover LinkedIn strategies to connect with recruiters and expand your network. Be sure to review our <a href="https://codepathdotorg.notion.site/199f78dd43324ca7b868c246bd7a89bc?v=346d5a571bc94dbcb6e23d98f938d509"  class="link">Resume & LinkedIn Checklist</a> prior to this Career Lab!</p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="35%">
+        <mj-image src="https://i.postimg.cc/dV3v6kvw/sept18.png" alt="" />
+      </mj-column>
+      <mj-column width="65%">
+        <mj-text padding-bottom="0">
+          <h3 class="career-small-heading">Recruiting Season Ready: Github</h3>
+        </mj-text>
+        <mj-text padding-top="0">
+          <p class="p-text">A strong GitHub profile is one of the easiest ways to make sure you are able to show clear evidence for your coding skillset. This workshop will teach you how to present your coding projects and contributions effectively on GitHub. Learn best practices for organizing repositories, writing meaningful commit messages, and showcasing your coding skills. We'll also cover how to make your repositories recruiter-friendly. Whether new to GitHub or refining your profile, this session will prepare you to showcase your technical expertise. Be sure to review our <a href="https://docs.google.com/document/d/1-sti9cKekesOyVTeuMyKyDXyWVgN2_JbbxP-e6r5PB4/edit?_hsenc=p2ANqtz--q7ngNDJs8I_y5qDoXInJKAz8R5MVx0k6DrkFycJe-4tdMJ2RgOqEz75yt93O9tsenuCUOxDr6O2WOpAka4V7MJyTovlpI3h1gZvgBCwx9WZlVa50&_hsmi=324072330&pli=1#heading=h.7xnsbllfc1cq" class="link">GitHub Checklist</a> prior to this Career Lab!</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="center">
+            <a href="#" class="btn">Sign up for fall labs</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="0">
+                <p class="p-text" style="font-style: italic">You can catch up on past Career Labs on our <a href="https://www.youtube.com/playlist?list=PLrT2tZ9JRrf628Q_6ZSAPORLBBnXO6onV" class="link">YouTube Playlist</a> or find key videos within the <a href="https://codepathdotorg.notion.site/CodePath-Career-Kit-80f86d446b654772832f9162c6c03950" class="link">CodePath Career Kit</a></p>
+            </mj-text>
+            <mj-divider border-width="1px" width="50%" align="left"/>
+        </mj-column>
+    </mj-section>
+
+
+    <mj-raw>
+      <!-- End Career Labs -->
+    </mj-raw>

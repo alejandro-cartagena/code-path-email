@@ -1,0 +1,46 @@
+<mj-raw>
+      <!-- Start Open Opportunities -->
+    </mj-raw>
+
+    <mj-section padding="0" background-color="#FFFFFF">
+      <mj-column width="100%">
+        <mj-text>
+          <h1 class="career-heading">Open <span style="color: #02BCFF;">Opportunities</span></h1>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-image align="left" src="https://i.postimg.cc/bNzqGVBG/nbc.png" alt="" />
+      </mj-column>
+      <mj-column width="50%">
+
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <p class="p-text">Unlock your potential this summer with Media Tech internships in Software Engineering, Cyber Security, Data Engineering, Product Management, and Technical Operations at NBCUniversal. <span style="font-weight: bold">NBCU is seeking interns who are graduating between December 2025 and May 2026</span>.</p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <p class="p-text"><span style="font-weight: bold;">💡Learn more:</span> <br>
+            CodePath students are invited to join an info session on September 19th, 1:00-2:00PM PT (4:00- 5:00 PM ET) to explore the opportunity, gain insights into the application process, and receive expert tips on crafting standout resumes and applications.<br>
+            <a href="#" class="link">Register here to join the info session</a></p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <p class="p-text"><span style="font-weight: bold;">⚡Exclusive CodePath application link:</span> <br>
+            Applications will open on September 16th. CodePath students should only apply using the customized application link.<br>
+            <a href="#" class="link">Complete this form to be sent a customized application link on September 16th.</a></p>
+        </mj-text>
+        <mj-divider border-width="1px" width="50%" align="left"/>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-raw>
+      <!-- End Open Opportunities -->
+    </mj-raw>

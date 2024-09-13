@@ -1,0 +1,76 @@
+<mj-raw>
+  <!-- Start Footer -->
+</mj-raw>
+
+<mj-section padding="0" background-color="#FFFFFF">
+  <mj-column width="100%">
+    <mj-text padding-top="0" padding-bottom="0">
+      <p class="p-text">
+        That's all for this week. Reach out to us on Slack or
+        <a href="#" class="link">send us an email</a> any time.
+      </p>
+    </mj-text>
+  </mj-column>
+
+  <mj-column width="100%">
+    <mj-text padding-top="0" padding-bottom="0">
+      <p class="p-text">
+        Thanks for reading!<br />
+        Your Career Center Team
+      </p>
+    </mj-text>
+  </mj-column>
+
+  <mj-column width="100%">
+    <mj-image src="https://i.postimg.cc/52rJR4Nv/careercenter.png" alt="" />
+  </mj-column>
+
+  <mj-column width="25%">
+    <mj-image href="https://codepathdotorg.notion.site/CodePath-Career-Kit-80f86d446b654772832f9162c6c03950" src="https://i.postimg.cc/X7Q49KRs/careerkit.png" alt="" />
+  </mj-column>
+  <mj-column width="25%">
+    <mj-image href="https://www.youtube.com/playlist?list=PLrT2tZ9JRrf628Q_6ZSAPORLBBnXO6onV" src="https://i.postimg.cc/mk4BymZ5/playlist.png" alt="" />
+  </mj-column>
+  <mj-column width="25%">
+    <mj-image href="https://courses.codepath.org/sessions" src="https://i.postimg.cc/q7CrfPzF/coaches.png" alt="" />
+  </mj-column>
+  <mj-column width="25%">
+    <mj-image href="https://codepathmentornetwork.com/?utm_campaign=Career%20Center%20Summer%202024&utm_medium=email&_hsenc=p2ANqtz-_RVDh0qXm8o-fPO4bHbMOcau9FdqVa7KyEEeMLUn4tvFDL-odnxT26KYQXZ6KWCtCnIMQUhJfmKcS9FUn7SaYw7f_qBBB9DumwZ8myYg2YIvRSM9I&_hsmi=324072330&utm_content=324072330&utm_source=hs_email" src="https://i.postimg.cc/qBckvHjV/mentors.png" alt="" />
+  </mj-column>
+
+  <mj-column background-color="#1B1C57" width="100%">
+    <mj-text padding-top="0" padding-bottom="0">
+      <p class="p-text" style="color: #ffffff; font-size: 12px">
+        CodePath, 5214F Diamond Heights Boulevard, Unit #1154, San Francisco, CA
+        94131
+      </p>
+    </mj-text>
+    <mj-text padding-top="0">
+      <a
+        style="
+          color: #4f5eff;
+          font-weight: bold;
+          text-decoration: none;
+          font-size: 12px;
+          padding-right: 5px;
+        "
+        href="#"
+        >Unsubscribe</a
+      >
+      <a
+        style="
+          color: #4f5eff;
+          font-weight: bold;
+          text-decoration: none;
+          font-size: 12px;
+        "
+        href="#"
+        >Manage Preferences</a
+      >
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-raw>
+  <!-- End Footer -->
+</mj-raw>

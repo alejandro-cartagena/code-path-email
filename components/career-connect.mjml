@@ -1,0 +1,26 @@
+<mj-raw>
+      <!-- Start Career Connect -->
+    </mj-raw>
+
+    <mj-section padding="0" background-color="#FFFFFF">
+      <mj-column width="100%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <p class="p-text"><span style="font-weight: bold">Looking for more open opportunities with CodePath partner companies?</span> These will soon be moving to CareerConnect, our new platform to match CodePath course completers with internships and full-time roles. Join the Beta version today, and set up your profile before company partners begin listing roles soon.</p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-image src="https://i.postimg.cc/768kqKzZ/careerconnect.png" alt="" />
+      </mj-column>
+
+      <mj-column width="100%">
+    <mj-text align="center">
+      <a href="https://www.codepath.org/student/career-connect?utm_campaign=Career%20Center%20Summer%202024&utm_medium=email&_hsenc=p2ANqtz--7kUtohy4GXSsXCqN4T93RtWMuH0XPMDJhYGs3omKVc01Ac53fCx2PJ7sU1gG0Ep6tnXKekAnOEBAuXtzWrBTJrG3YVfRgdppiYd4ojlJDeb8mUa0&_hsmi=324072330&utm_content=324072330&utm_source=hs_email" class="btn">Join career connect today</a>
+    </mj-text>
+    <mj-divider border-width="1px" width="50%" align="left" />
+  </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- End Career Connect -->
+    </mj-raw>
